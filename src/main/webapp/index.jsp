@@ -15,6 +15,7 @@
         <form method="post" action="Login2">
             <input type="text" name="name"><!-- comment -->
             <button type="submit">Enviar</button>
+            <p>Esto fue cambiado</p>
         </form>
     </body>
 </html>
